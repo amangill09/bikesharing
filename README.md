@@ -29,23 +29,23 @@ By looking at checkout times by gender, we notice that Male users outnumber Fema
 
 ### Trips by Weekday per Hour: 
 By looking at Trips by Weekday per Hour, we notice that 7-9AM and 5-7PM are busiest.
-![Trips by Weekday per Hour](/Data/Trips_by_Weekday_per_Hour.png)
+![Trips by Weekday per Hour](/data/Trips_by_Weekday_per_Hour.png)
 
 ### Trips By Gender (weekday per hour): 
 By looking at Trips by Gender (Weekday per Hour), we notice a similar trend for Male and Female genders.
-![Trips By Gender (weekday per hour)](/Data/Trips_By_Gender_(weekday_per_hour).png)
+![Trips By Gender (weekday per hour)](/data/Trips_By_Gender_(weekday_per_hour).png)
 
 ### User Trips by Gender by Weekday: 
 By looking at User Trips by Gender by Weekday, we notice that Thursday is most popular day for bike rentals.
-![User Trips by Gender by Weekday](/Data/User_Trips_by_Gender_by_Weekday.png)
+![User Trips by Gender by Weekday](/data/User_Trips_by_Gender_by_Weekday.png)
 
 ### Gender vs usertype: 
 By looking at Gender vs usertype, we notice that ratio of subscribers is same for Male and Female genders.
-![Gender vs usertype](/Data/Gender_vs_usertype.png)
+![Gender vs usertype](/data/Gender_vs_usertype.png)
 
 ### Top Starting Stations: 
 By looking at Top Starting Stations, we notice that lower Manhattan has busiest stations.
-![Top Starting Stations](/Data/Top_Starting_Stations.png)
+![Top Starting Stations](/data/Top_Starting_Stations.png)
 
 ## **Summary**
 
