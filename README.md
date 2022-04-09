@@ -21,11 +21,11 @@ Following is the summary of different types of analysis that was performed:
 
 ### Checkout Times for Users: 
 By looking at checkout times for each ride, we notice that most trips are less than a hour.
-![Checkout Times for Users](/Data/Checkout_Times_for_Users.png)
+![Checkout Times for Users](/data/Checkout_Times_for_Users.png)
 
 ### Checkout Times by Gender: 
 By looking at checkout times by gender, we notice that Male users outnumber Female and unknown genders.
-![Checkout Times by Gender](/Data/Checkout_Times_by_Gender.png)
+![Checkout Times by Gender](data/Checkout_Times_by_Gender.png)
 
 ### Trips by Weekday per Hour: 
 By looking at Trips by Weekday per Hour, we notice that 7-9AM and 5-7PM are busiest.
